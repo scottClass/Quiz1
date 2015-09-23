@@ -76,7 +76,7 @@ public class Quiz1 {
             }
             if(sum > num * 2) 
             {
-                System.out.println(num + " is a abundant number");
+                System.out.println(num + " is an abundant number");
             }
         }
         
