@@ -22,7 +22,7 @@ public class Quiz1 {
         System.out.println("Enter 0 to quit");
         while(num != 0) 
         {
-            System.out.print("Enter a number to classify: ");
+            System.out.println("Enter a number to classify: ");
             
             num = input.nextInt();
             
